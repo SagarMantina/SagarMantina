@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm MANTINA SAGAR</h1>
 <h3 align="center">Hi, I’m Sagar, a passionate Full Stack Web Developer, AI/ML Enthusiast. I love building scalable applications, solving challenging problems, and contributing to innovative projects.</h3>
+🌟   
 
-<h3 align="left">Connect with me:</h3>
+- 🌐 **MERN Stack Developer** with a focus on creating modern web applications.  
+- 📂 Exploring the world of **Data Science** and **Machine Learning**.  
+- 💡 Strong interest in competitive programming using **C++** and **JavaScript**.  
+
+
 <p align="left">
 </p>
 
@@ -11,11 +16,6 @@
 
 
 
-## 🌟 About Me  
-
-- 🌐 **MERN Stack Developer** with a focus on creating modern web applications.  
-- 📂 Exploring the world of **Data Science** and **Machine Learning**.  
-- 💡 Strong interest in competitive programming using **C++** and **JavaScript**.  
 
 
 ---
