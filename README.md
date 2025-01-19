@@ -40,8 +40,9 @@
 
 ## 📊 GitHub Stats  
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarMantina&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarMantina&layout=compact&theme=radical)  
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarMantina&show_icons=true&theme=radical&cache=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarMantina&layout=compact&theme=radical&cache=0)
+
 
 ---
 
